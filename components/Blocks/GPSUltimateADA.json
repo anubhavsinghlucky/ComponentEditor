@@ -119,11 +119,11 @@
         },
         {
           "from": "GPSUltimateADA_1.RX",
-          "to": "RX"
+          "to": "D0"
         },
         {
           "from": "GPSUltimateADA_1.TX",
-          "to": "TX"
+          "to": "D1"
         }
       ],
       "cost": 0
@@ -271,11 +271,11 @@
         },
         {
           "from": "GPSUltimateADA_1.RX",
-          "to": "RX"
+          "to": "D0"
         },
         {
           "from": "GPSUltimateADA_1.TX",
-          "to": "TX"
+          "to": "D1"
         }
       ],
       "cost": 100
